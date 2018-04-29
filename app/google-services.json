@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "292367562705",
+    "firebase_url": "https://sportcity-7ef1b.firebaseio.com",
+    "project_id": "sportcity-7ef1b",
+    "storage_bucket": "sportcity-7ef1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292367562705:android:db35593ea607a1dd",
+        "android_client_info": {
+          "package_name": "com.app.sportcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292367562705-h402ja144qfhrc77uc6gdt3vn0ma4h5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.sportcity",
+            "certificate_hash": "c6be3ccd4a400fe9c2b738ea9c913cf2d16b1b88"
+          }
+        },
+        {
+          "client_id": "292367562705-rjgdeo8v8dvgkl5ro8suhkequn72qcfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj_C8IM48bZPxYHVfwP-_D9De67RbKO4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292367562705-rjgdeo8v8dvgkl5ro8suhkequn72qcfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
