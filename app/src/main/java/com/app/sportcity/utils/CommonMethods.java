@@ -1,4 +1,4 @@
-package com.app.sportcity.utils;
+package com.app.MysportcityApp.utils;
 
 import android.app.Activity;
 import android.content.ComponentName;

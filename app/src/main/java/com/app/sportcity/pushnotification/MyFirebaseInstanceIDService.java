@@ -1,10 +1,10 @@
-package com.app.sportcity.pushnotification;
+package com.app.MysportcityApp.pushnotification;
 
 import android.util.Log;
 
-import com.app.sportcity.activities.SplashScreen;
-import com.app.sportcity.utils.CommonMethods;
-import com.app.sportcity.utils.MySharedPreference;
+import com.app.MysportcityApp.activities.SplashScreen;
+import com.app.MysportcityApp.utils.CommonMethods;
+import com.app.MysportcityApp.utils.MySharedPreference;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 

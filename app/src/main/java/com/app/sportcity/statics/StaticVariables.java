@@ -1,10 +1,10 @@
-package com.app.sportcity.statics;
+package com.app.MysportcityApp.statics;
 
-import com.app.sportcity.objects.CartDetails;
-import com.app.sportcity.objects.Category;
-import com.app.sportcity.objects.Item;
-import com.app.sportcity.objects.ItemDetail;
-import com.app.sportcity.objects.Post;
+import com.app.MysportcityApp.objects.CartDetails;
+import com.app.MysportcityApp.objects.Category;
+import com.app.MysportcityApp.objects.Item;
+import com.app.MysportcityApp.objects.ItemDetail;
+import com.app.MysportcityApp.objects.Post;
 
 import java.util.ArrayList;
 import java.util.List;

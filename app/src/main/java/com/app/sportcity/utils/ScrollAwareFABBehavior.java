@@ -1,4 +1,4 @@
-package com.app.sportcity.utils;
+package com.app.MysportcityApp.utils;
 
 import android.content.Context;
 import android.os.Build;
@@ -13,7 +13,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.view.animation.Interpolator;
 
-import com.app.sportcity.R;
+import com.app.MysportcityApp.R;
 
 public class ScrollAwareFABBehavior extends FloatingActionButton.Behavior {
     private static final Interpolator INTERPOLATOR = new FastOutSlowInInterpolator();

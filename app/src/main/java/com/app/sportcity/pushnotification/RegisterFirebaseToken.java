@@ -1,13 +1,13 @@
-package com.app.sportcity.pushnotification;
+package com.app.MysportcityApp.pushnotification;
 
 import android.content.Context;
 import android.os.AsyncTask;
 import android.util.Log;
 
-import com.app.sportcity.server_protocols.ApiCalls;
-import com.app.sportcity.server_protocols.RetrofitSingleton;
-import com.app.sportcity.utils.CommonMethods;
-import com.app.sportcity.utils.MySharedPreference;
+import com.app.MysportcityApp.server_protocols.ApiCalls;
+import com.app.MysportcityApp.server_protocols.RetrofitSingleton;
+import com.app.MysportcityApp.utils.CommonMethods;
+import com.app.MysportcityApp.utils.MySharedPreference;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.messaging.FirebaseMessaging;
 

@@ -1,4 +1,4 @@
-package com.app.sportcity.objects;
+package com.app.MysportcityApp.objects;
 
 import java.util.List;
 import com.google.gson.annotations.Expose;

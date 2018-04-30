@@ -1,11 +1,11 @@
-package com.app.sportcity.view_holder;
+package com.app.MysportcityApp.view_holder;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.app.sportcity.R;
+import com.app.MysportcityApp.R;
 
 /**
  * Created by bugatti on 17/11/16.

@@ -1,12 +1,12 @@
-package com.app.sportcity.activities;
+package com.app.MysportcityApp.activities;
 
 import android.content.Context;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.app.sportcity.R;
-import com.app.sportcity.utils.CommonMethods;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.utils.CommonMethods;
 
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 

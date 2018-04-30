@@ -1,4 +1,4 @@
-package com.app.sportcity.fragments;
+package com.app.MysportcityApp.fragments;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -21,11 +21,11 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.app.sportcity.R;
-import com.app.sportcity.applications.MyApplication;
-import com.app.sportcity.objects.Img;
-import com.app.sportcity.utils.Cart;
-import com.app.sportcity.utils.CommonMethods;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.applications.MyApplication;
+import com.app.MysportcityApp.objects.Img;
+import com.app.MysportcityApp.utils.Cart;
+import com.app.MysportcityApp.utils.CommonMethods;
 
 import java.io.IOException;
 import java.net.URL;

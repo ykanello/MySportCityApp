@@ -1,4 +1,4 @@
-package com.app.sportcity.activities;
+package com.app.MysportcityApp.activities;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -9,19 +9,19 @@ import android.os.Bundle;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.app.sportcity.R;
-import com.app.sportcity.objects.ActiveMenuList;
-import com.app.sportcity.objects.Category;
-import com.app.sportcity.objects.Item;
-import com.app.sportcity.objects.Menu;
-import com.app.sportcity.objects.Post;
-import com.app.sportcity.pushnotification.RegisterFirebaseToken;
-import com.app.sportcity.server_protocols.ApiCalls;
-import com.app.sportcity.server_protocols.RetrofitSingleton;
-import com.app.sportcity.statics.StaticVariables;
-import com.app.sportcity.utils.CommonMethods;
-import com.app.sportcity.utils.MySharedPreference;
-import com.app.sportcity.utils.Opener;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.objects.ActiveMenuList;
+import com.app.MysportcityApp.objects.Category;
+import com.app.MysportcityApp.objects.Item;
+import com.app.MysportcityApp.objects.Menu;
+import com.app.MysportcityApp.objects.Post;
+import com.app.MysportcityApp.pushnotification.RegisterFirebaseToken;
+import com.app.MysportcityApp.server_protocols.ApiCalls;
+import com.app.MysportcityApp.server_protocols.RetrofitSingleton;
+import com.app.MysportcityApp.statics.StaticVariables;
+import com.app.MysportcityApp.utils.CommonMethods;
+import com.app.MysportcityApp.utils.MySharedPreference;
+import com.app.MysportcityApp.utils.Opener;
 
 import java.io.IOException;
 import java.util.List;

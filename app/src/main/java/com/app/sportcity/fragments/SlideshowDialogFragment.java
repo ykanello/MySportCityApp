@@ -1,4 +1,4 @@
-package com.app.sportcity.fragments;
+package com.app.MysportcityApp.fragments;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -13,12 +13,12 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.app.sportcity.R;
-import com.app.sportcity.activities.Images;
-import com.app.sportcity.objects.ItemDetail;
-import com.app.sportcity.statics.StaticVariables;
-import com.app.sportcity.utils.MyCart;
-import com.app.sportcity.utils.MySharedPreference;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.activities.Images;
+import com.app.MysportcityApp.objects.ItemDetail;
+import com.app.MysportcityApp.statics.StaticVariables;
+import com.app.MysportcityApp.utils.MyCart;
+import com.app.MysportcityApp.utils.MySharedPreference;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.google.gson.Gson;

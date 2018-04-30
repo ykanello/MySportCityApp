@@ -1,4 +1,4 @@
-package com.app.sportcity.server_protocols;
+package com.app.MysportcityApp.server_protocols;
 
 /**
  * Created by bugatti on 22/11/16.

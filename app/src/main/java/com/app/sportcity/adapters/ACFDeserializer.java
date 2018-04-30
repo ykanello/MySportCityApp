@@ -1,7 +1,7 @@
-package com.app.sportcity.adapters;
+package com.app.MysportcityApp.adapters;
 
-import com.app.sportcity.objects.ACF;
-import com.app.sportcity.objects.ACFList;
+import com.app.MysportcityApp.objects.ACF;
+import com.app.MysportcityApp.objects.ACFList;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;

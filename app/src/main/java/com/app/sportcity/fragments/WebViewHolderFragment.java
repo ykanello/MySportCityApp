@@ -1,4 +1,4 @@
-package com.app.sportcity.fragments;
+package com.app.MysportcityApp.fragments;
 
 import android.content.Context;
 import android.net.Uri;
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.app.sportcity.R;
+import com.app.MysportcityApp.R;
 
 public class WebViewHolderFragment extends Fragment {
     // TODO: Rename parameter arguments, choose names that match

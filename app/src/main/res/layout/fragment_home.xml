@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.app.sportcity.fragments.HomeFragment">
+    tools:context="com.app.MysportcityApp.fragments.HomeFragment">
 
     <RelativeLayout
         android:layout_width="match_parent"

@@ -1,4 +1,4 @@
-package com.app.sportcity.fragments;
+package com.app.MysportcityApp.fragments;
 
 
 import android.graphics.Rect;
@@ -10,14 +10,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.app.sportcity.R;
-import com.app.sportcity.adapters.CatAdapter;
-import com.app.sportcity.objects.Category;
-import com.app.sportcity.objects.CategorySer;
-import com.app.sportcity.objects.Item;
-import com.app.sportcity.server_protocols.ApiCalls;
-import com.app.sportcity.server_protocols.RetrofitSingleton;
-import com.app.sportcity.statics.StaticVariables;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.adapters.CatAdapter;
+import com.app.MysportcityApp.objects.Category;
+import com.app.MysportcityApp.objects.CategorySer;
+import com.app.MysportcityApp.objects.Item;
+import com.app.MysportcityApp.server_protocols.ApiCalls;
+import com.app.MysportcityApp.server_protocols.RetrofitSingleton;
+import com.app.MysportcityApp.statics.StaticVariables;
 
 import org.json.JSONArray;
 import org.json.JSONException;

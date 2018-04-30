@@ -1,4 +1,4 @@
-package com.app.sportcity.objects;
+package com.app.MysportcityApp.objects;
 
 import java.io.Serializable;
 import java.util.List;

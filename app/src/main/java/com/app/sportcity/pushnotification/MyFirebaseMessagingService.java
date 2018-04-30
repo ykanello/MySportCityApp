@@ -1,4 +1,4 @@
-package com.app.sportcity.pushnotification;
+package com.app.MysportcityApp.pushnotification;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -10,9 +10,9 @@ import android.os.Build;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
-import com.app.sportcity.R;
-import com.app.sportcity.activities.BaseActivity;
-import com.app.sportcity.activities.NewsDetail;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.activities.BaseActivity;
+import com.app.MysportcityApp.activities.NewsDetail;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 

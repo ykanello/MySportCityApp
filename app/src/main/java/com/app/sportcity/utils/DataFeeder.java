@@ -1,4 +1,4 @@
-package com.app.sportcity.utils;
+package com.app.MysportcityApp.utils;
 
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
@@ -7,9 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.app.sportcity.R;
-import com.app.sportcity.fragments.MyDialogFragment;
-import com.app.sportcity.objects.Img;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.fragments.MyDialogFragment;
+import com.app.MysportcityApp.objects.Img;
 
 import java.util.ArrayList;
 

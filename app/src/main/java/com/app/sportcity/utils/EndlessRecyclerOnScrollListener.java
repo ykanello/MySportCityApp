@@ -1,4 +1,4 @@
-package com.app.sportcity.utils;
+package com.app.MysportcityApp.utils;
 
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;

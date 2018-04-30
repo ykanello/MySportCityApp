@@ -1,9 +1,9 @@
-package com.app.sportcity.utils;
+package com.app.MysportcityApp.utils;
 
 import android.content.Context;
 import android.widget.Toast;
 
-import com.app.sportcity.objects.Img;
+import com.app.MysportcityApp.objects.Img;
 
 import java.util.ArrayList;
 

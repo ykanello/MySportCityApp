@@ -1,4 +1,4 @@
-package com.app.sportcity.utils;
+package com.app.MysportcityApp.utils;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;
@@ -11,7 +11,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 
-import com.app.sportcity.R;
+import com.app.MysportcityApp.R;
 
 public class CircleProgressBar extends View {
 

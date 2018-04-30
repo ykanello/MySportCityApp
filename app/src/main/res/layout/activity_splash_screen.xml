@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
-    tools:context="com.app.sportcity.activities.SplashScreen">
+    tools:context="com.app.MysportcityApp.activities.SplashScreen">
 
     <TextView
         android:layout_width="wrap_content"

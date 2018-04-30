@@ -1,4 +1,4 @@
-package com.app.sportcity.pushnotification;
+package com.app.MysportcityApp.pushnotification;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

@@ -1,12 +1,12 @@
-package com.app.sportcity.server_protocols;
+package com.app.MysportcityApp.server_protocols;
 
-import com.app.sportcity.objects.ActiveMenuList;
-import com.app.sportcity.objects.Category;
-import com.app.sportcity.objects.Media;
-import com.app.sportcity.objects.Menu;
-import com.app.sportcity.objects.Post;
-import com.app.sportcity.pushnotification.ResponseToken;
-import com.app.sportcity.utils.CommonMethods;
+import com.app.MysportcityApp.objects.ActiveMenuList;
+import com.app.MysportcityApp.objects.Category;
+import com.app.MysportcityApp.objects.Media;
+import com.app.MysportcityApp.objects.Menu;
+import com.app.MysportcityApp.objects.Post;
+import com.app.MysportcityApp.pushnotification.ResponseToken;
+import com.app.MysportcityApp.utils.CommonMethods;
 
 import java.util.List;
 

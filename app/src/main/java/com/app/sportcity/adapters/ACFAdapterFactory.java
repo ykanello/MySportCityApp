@@ -1,4 +1,4 @@
-package com.app.sportcity.adapters;
+package com.app.MysportcityApp.adapters;
 
 import com.google.gson.Gson;
 import com.google.gson.TypeAdapter;

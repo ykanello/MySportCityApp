@@ -1,4 +1,4 @@
-package com.app.sportcity.activities;
+package com.app.MysportcityApp.activities;
 
 import android.content.Context;
 import android.support.design.widget.FloatingActionButton;
@@ -9,12 +9,12 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.app.sportcity.objects.Category;
-import com.app.sportcity.server_protocols.ApiCalls;
-import com.app.sportcity.server_protocols.RetrofitSingleton;
-import com.app.sportcity.utils.Opener;
-import com.app.sportcity.R;
-import com.app.sportcity.utils.CommonMethods;
+import com.app.MysportcityApp.objects.Category;
+import com.app.MysportcityApp.server_protocols.ApiCalls;
+import com.app.MysportcityApp.server_protocols.RetrofitSingleton;
+import com.app.MysportcityApp.utils.Opener;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.utils.CommonMethods;
 
 import retrofit2.Call;
 import retrofit2.Callback;

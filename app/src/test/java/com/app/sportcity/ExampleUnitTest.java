@@ -1,4 +1,4 @@
-package com.app.sportcity;
+package com.app.MysportcityApp;
 
 import org.junit.Test;
 

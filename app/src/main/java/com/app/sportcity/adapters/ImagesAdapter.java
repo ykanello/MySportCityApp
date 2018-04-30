@@ -1,4 +1,4 @@
-package com.app.sportcity.adapters;
+package com.app.MysportcityApp.adapters;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -11,8 +11,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.app.sportcity.R;
-import com.app.sportcity.objects.Media;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.objects.Media;
 import com.bumptech.glide.Glide;
 
 import java.util.List;

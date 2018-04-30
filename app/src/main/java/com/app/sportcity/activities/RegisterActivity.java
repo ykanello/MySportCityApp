@@ -1,4 +1,4 @@
-package com.app.sportcity.activities;
+package com.app.MysportcityApp.activities;
 
 import android.Manifest;
 import android.app.ProgressDialog;
@@ -22,9 +22,9 @@ import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
-import com.app.sportcity.R;
-import com.app.sportcity.utils.CircleTransform;
-import com.app.sportcity.utils.CommonMethods;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.utils.CircleTransform;
+import com.app.MysportcityApp.utils.CommonMethods;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.edmodo.cropper.CropImageView;
@@ -35,9 +35,9 @@ import java.io.IOException;
 
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
-import static com.app.sportcity.utils.CommonMethods.getCameraPhotoOrientation;
-import static com.app.sportcity.utils.CommonMethods.getDisplaySize;
-import static com.app.sportcity.utils.CommonMethods.hasPermissions;
+import static com.app.MysportcityApp.utils.CommonMethods.getCameraPhotoOrientation;
+import static com.app.MysportcityApp.utils.CommonMethods.getDisplaySize;
+import static com.app.MysportcityApp.utils.CommonMethods.hasPermissions;
 
 public class RegisterActivity extends AppCompatActivity implements View.OnClickListener {
 

@@ -1,4 +1,4 @@
-package com.app.sportcity.activities;
+package com.app.MysportcityApp.activities;
 
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
@@ -12,11 +12,11 @@ import android.view.View;
 import android.view.ViewStructure;
 import android.widget.TextView;
 
-import com.app.sportcity.R;
-import com.app.sportcity.fragments.PlaceholderFragment;
-import com.app.sportcity.statics.StaticVariables;
-import com.app.sportcity.utils.MyMenuItemStuffListener;
-import com.app.sportcity.utils.Opener;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.fragments.PlaceholderFragment;
+import com.app.MysportcityApp.statics.StaticVariables;
+import com.app.MysportcityApp.utils.MyMenuItemStuffListener;
+import com.app.MysportcityApp.utils.Opener;
 
 public class NewsList extends AppCompatActivity {
     int catId = -1;

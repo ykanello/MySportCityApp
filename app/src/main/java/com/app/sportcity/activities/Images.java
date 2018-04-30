@@ -1,4 +1,4 @@
-package com.app.sportcity.activities;
+package com.app.MysportcityApp.activities;
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
@@ -14,18 +14,18 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.app.sportcity.R;
-import com.app.sportcity.adapters.ImagesAdapter;
-import com.app.sportcity.fragments.SlideshowDialogFragment;
-import com.app.sportcity.objects.ACF;
-import com.app.sportcity.objects.Media;
-import com.app.sportcity.server_protocols.ApiCalls;
-import com.app.sportcity.server_protocols.RetrofitSingleton;
-import com.app.sportcity.statics.StaticVariables;
-import com.app.sportcity.utils.EndlessRecyclerOnScrollListener;
-import com.app.sportcity.utils.MyMenuItemStuffListener;
-import com.app.sportcity.utils.MySharedPreference;
-import com.app.sportcity.utils.Opener;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.adapters.ImagesAdapter;
+import com.app.MysportcityApp.fragments.SlideshowDialogFragment;
+import com.app.MysportcityApp.objects.ACF;
+import com.app.MysportcityApp.objects.Media;
+import com.app.MysportcityApp.server_protocols.ApiCalls;
+import com.app.MysportcityApp.server_protocols.RetrofitSingleton;
+import com.app.MysportcityApp.statics.StaticVariables;
+import com.app.MysportcityApp.utils.EndlessRecyclerOnScrollListener;
+import com.app.MysportcityApp.utils.MyMenuItemStuffListener;
+import com.app.MysportcityApp.utils.MySharedPreference;
+import com.app.MysportcityApp.utils.Opener;
 import com.google.gson.Gson;
 
 import java.util.ArrayList;

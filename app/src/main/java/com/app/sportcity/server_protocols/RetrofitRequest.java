@@ -1,4 +1,4 @@
-package com.app.sportcity.server_protocols;
+package com.app.MysportcityApp.server_protocols;
 
 import retrofit2.Call;
 import retrofit2.Callback;

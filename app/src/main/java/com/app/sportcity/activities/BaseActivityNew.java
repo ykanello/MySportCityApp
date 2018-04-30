@@ -1,4 +1,4 @@
-package com.app.sportcity.activities;
+package com.app.MysportcityApp.activities;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -15,8 +15,8 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
-import com.app.sportcity.R;
-import com.app.sportcity.fragments.HomeFragment;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.fragments.HomeFragment;
 
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 

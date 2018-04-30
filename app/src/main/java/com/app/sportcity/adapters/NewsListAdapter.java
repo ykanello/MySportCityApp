@@ -1,4 +1,4 @@
-package com.app.sportcity.adapters;
+package com.app.MysportcityApp.adapters;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -14,17 +14,17 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.app.sportcity.R;
-import com.app.sportcity.activities.CategoryNewsList;
-import com.app.sportcity.objects.Category;
-import com.app.sportcity.objects.Media;
-import com.app.sportcity.objects.NewsList;
-import com.app.sportcity.objects.Post;
-import com.app.sportcity.server_protocols.ApiCalls;
-import com.app.sportcity.server_protocols.RetrofitSingleton;
-import com.app.sportcity.statics.StaticVariables;
-import com.app.sportcity.utils.CommonMethods;
-import com.app.sportcity.utils.Opener;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.activities.CategoryNewsList;
+import com.app.MysportcityApp.objects.Category;
+import com.app.MysportcityApp.objects.Media;
+import com.app.MysportcityApp.objects.NewsList;
+import com.app.MysportcityApp.objects.Post;
+import com.app.MysportcityApp.server_protocols.ApiCalls;
+import com.app.MysportcityApp.server_protocols.RetrofitSingleton;
+import com.app.MysportcityApp.statics.StaticVariables;
+import com.app.MysportcityApp.utils.CommonMethods;
+import com.app.MysportcityApp.utils.Opener;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 

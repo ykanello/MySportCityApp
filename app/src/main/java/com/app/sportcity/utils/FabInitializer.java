@@ -1,4 +1,4 @@
-package com.app.sportcity.utils;
+package com.app.MysportcityApp.utils;
 
 import android.app.Activity;
 import android.support.design.widget.FloatingActionButton;
@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 
-import com.app.sportcity.R;
+import com.app.MysportcityApp.R;
 
 /**
  * Created by bugatti on 12/12/16.

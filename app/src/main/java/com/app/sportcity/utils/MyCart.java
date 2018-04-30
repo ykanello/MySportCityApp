@@ -1,7 +1,7 @@
-package com.app.sportcity.utils;
+package com.app.MysportcityApp.utils;
 
-import com.app.sportcity.objects.ItemDetail;
-import com.app.sportcity.statics.StaticVariables;
+import com.app.MysportcityApp.objects.ItemDetail;
+import com.app.MysportcityApp.statics.StaticVariables;
 
 /**
  * Created by bugatti on 22/01/17.

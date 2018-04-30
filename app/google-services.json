@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:292367562705:android:db35593ea607a1dd",
         "android_client_info": {
-          "package_name": "com.app.sportcity"
+          "package_name": "com.app.MysportcityApp"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "292367562705-h402ja144qfhrc77uc6gdt3vn0ma4h5d.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.app.sportcity",
+            "package_name": "com.app.MysportcityApp",
             "certificate_hash": "c6be3ccd4a400fe9c2b738ea9c913cf2d16b1b88"
           }
         },

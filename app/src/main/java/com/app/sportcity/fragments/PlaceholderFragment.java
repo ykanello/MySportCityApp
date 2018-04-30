@@ -1,4 +1,4 @@
-package com.app.sportcity.fragments;
+package com.app.MysportcityApp.fragments;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -14,16 +14,16 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import com.app.sportcity.R;
-import com.app.sportcity.adapters.NewsListAdapter;
-import com.app.sportcity.objects.Category;
-import com.app.sportcity.objects.NewsList;
-import com.app.sportcity.objects.Post;
-import com.app.sportcity.server_protocols.ApiCalls;
-import com.app.sportcity.server_protocols.RetrofitSingleton;
-import com.app.sportcity.statics.StaticVariables;
-import com.app.sportcity.utils.DataFeeder;
-import com.app.sportcity.utils.EndlessRecyclerOnScrollListener;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.adapters.NewsListAdapter;
+import com.app.MysportcityApp.objects.Category;
+import com.app.MysportcityApp.objects.NewsList;
+import com.app.MysportcityApp.objects.Post;
+import com.app.MysportcityApp.server_protocols.ApiCalls;
+import com.app.MysportcityApp.server_protocols.RetrofitSingleton;
+import com.app.MysportcityApp.statics.StaticVariables;
+import com.app.MysportcityApp.utils.DataFeeder;
+import com.app.MysportcityApp.utils.EndlessRecyclerOnScrollListener;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 

@@ -1,4 +1,4 @@
-package com.app.sportcity.adapters;
+package com.app.MysportcityApp.adapters;
 
 import android.content.Context;
 import android.support.v4.view.PagerAdapter;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.app.sportcity.R;
-import com.app.sportcity.objects.Img;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.objects.Img;
 import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.app.sportcity.objects;
+package com.app.MysportcityApp.objects;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

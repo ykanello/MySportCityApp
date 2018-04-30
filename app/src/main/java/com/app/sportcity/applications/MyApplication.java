@@ -1,4 +1,4 @@
-package com.app.sportcity.applications;
+package com.app.MysportcityApp.applications;
 
 import android.app.Application;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.support.multidex.MultiDexApplication;
 
-import com.app.sportcity.R;
+import com.app.MysportcityApp.R;
 
 import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 

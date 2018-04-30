@@ -4,6 +4,6 @@
     android:id="@+id/activity_news_list"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.app.sportcity.activities.NewsList">
+    tools:context="com.app.MysportcityApp.activities.NewsList">
 
 </RelativeLayout>

@@ -1,4 +1,4 @@
-package com.app.sportcity.adapters;
+package com.app.MysportcityApp.adapters;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,12 +7,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.app.sportcity.R;
-import com.app.sportcity.objects.Category;
-import com.app.sportcity.objects.CategorySer;
-import com.app.sportcity.objects.Item;
-import com.app.sportcity.utils.Opener;
-import com.app.sportcity.view_holder.CategoryViewHolder;
+import com.app.MysportcityApp.R;
+import com.app.MysportcityApp.objects.Category;
+import com.app.MysportcityApp.objects.CategorySer;
+import com.app.MysportcityApp.objects.Item;
+import com.app.MysportcityApp.utils.Opener;
+import com.app.MysportcityApp.view_holder.CategoryViewHolder;
 
 import java.util.ArrayList;
 import java.util.List;
